@@ -1,2 +1,2 @@
-# Playwright-interview-task
-Interview task for QA/Test Engineer using Playwright
+# Playwright-simple-task
+A simple task for playwright users
